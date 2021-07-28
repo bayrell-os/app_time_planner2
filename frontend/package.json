@@ -10,5 +10,8 @@
         "eslint": "^7.31.0",
         "webpack": "5.47.0",
         "webpack-cli": "4.7.2"
+    },
+    "dependencies": {
+        "bayrell-web-js": "file:../bayrell-web-js"
     }
 }
