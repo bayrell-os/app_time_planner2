@@ -1,0 +1,3 @@
+[submodule "bayrell-web-js"]
+	path = bayrell-web-js
+	url = https://github.com/bayrell/bayrell-web-js
